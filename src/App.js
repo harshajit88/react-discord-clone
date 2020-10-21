@@ -18,7 +18,9 @@ function App() {
         <Chat />
       </>
       ) :
-      <h2>You need to Login</h2>
+      /*<h2>You need to Login</h2>*/
+    /*Have to create the Login module to enable authorization*/  
+    <Login />
       }
       
     </div>
