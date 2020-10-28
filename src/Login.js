@@ -13,6 +13,7 @@ function Login() {
             <div className="login__logo">
                 <img src="https://logovtor.com/wp-content/uploads/2020/07/discord-logo-vector.png" alt="" />
             </div>
+            /*made changes*/
             <Button onClick={signIn}>Sign In</Button>
         </div>
     )
